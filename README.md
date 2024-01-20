@@ -1,6 +1,6 @@
 # 32BIDS_IMC
 
-<img src="images/32_BIDS_IMC.png" width="40%" height="40%" alt="Architecture" title="Architecture">
+<img src="images/32_BIDS_IMC.png" width="40%" height="40%" alt="32BIDS" title="Architecture">
 
 The 32bids coding challenge has been developed in collaboration with CambridgeSpark and consists of two rounds. <br /><br />
 In Round 1 there are four coding assignments that need to be completed.<br />
