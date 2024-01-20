@@ -9,9 +9,9 @@ In Round 2 there are four coding assignments as well. <br /><br />
 The final results are based on Round 2 only. Round 1 is a qualification for Round 2.
 At the end of Round 2, the winners were chosen. These were the 64 first places.
 
-Start challenge: October 1st
-End of 1st round: October 31st
-End of 2nd round: November 22nd  
+Start challenge: October 1st <br />
+End of 1st round: October 31st <br />
+End of 2nd round: November 22nd <br />
 
 ## Round 1:
 - MidPrice
