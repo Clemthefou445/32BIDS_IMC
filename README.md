@@ -1,4 +1,4 @@
-# 32BIDS_IMC
+# 32BIDS_IMC : Tournament in Algorithmic Finance
 
 <img src="32_BIDS_IMC.png" width="100%" height="80%" alt="32BIDS" title="Architecture">
 
